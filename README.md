@@ -90,7 +90,7 @@ id,amount,timestamp,account_id,merchant
 
 ## Example Output
 
-![Terminal Output](screenshots/example.png)
+![Terminal Output](screen.png)
 
 _[Add a screenshot of the tool's table output here]_
 
