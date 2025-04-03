@@ -18,7 +18,7 @@ A command-line tool for detecting potentially fraudulent transactions in financi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/go-frauddetector-cli
+git clone https://github.com/alxzndr2019/fraud-detector-cli
 cd go-frauddetector-cli
 ```
 
