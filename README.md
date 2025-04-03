@@ -92,8 +92,6 @@ id,amount,timestamp,account_id,merchant
 
 ![Terminal Output](screen.png)
 
-_[Add a screenshot of the tool's table output here]_
-
 ## Fraud Detection Rules
 
 1. **High Amount Rule**: Flags transactions above the specified amount threshold
